@@ -1,0 +1,15 @@
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\bin\Debug\net8.0\Pr5.exe
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\bin\Debug\net8.0\Pr5.deps.json
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\bin\Debug\net8.0\Pr5.runtimeconfig.json
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\bin\Debug\net8.0\Pr5.dll
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\bin\Debug\net8.0\Pr5.pdb
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.AssemblyInfoInputs.cache
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.AssemblyInfo.cs
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.csproj.CoreCompileInputs.cache
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.sourcelink.json
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.dll
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\refint\Pr5.dll
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.pdb
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\Pr5.genruntimeconfig.cache
+C:\Users\igoro\OneDrive\Документи\CSLabs\CSharpLabs2024\Pr5\obj\Debug\net8.0\ref\Pr5.dll
